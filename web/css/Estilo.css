@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+#Tlogin{
+    font-family: bold;
+}
+button{
+    margin: 2%;
+}
+.btn{
+    margin:2%;
+}
+
+
